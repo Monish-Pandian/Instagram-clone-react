@@ -1,0 +1,285 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "sanjay",
+      "userAvatar": "src/assets/profile1.jpg",
+      "imageUrl": "src/assets/post1.jpg",
+      "caption": "Exploring new places 🌍✨",
+      "likes": 125,
+      "isLiked": false,
+      "createdAt": "2025-10-28T14:32:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "arun_dev",
+          "text": "Wow this looks amazing 😍"
+        },
+        {
+          "id": 2,
+          "username": "sri_coder",
+          "text": "Where is this place?"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "sajid",
+      "userAvatar": "src/assets/profile2.jpeg",
+      "imageUrl": "src/assets/post2.jpg",
+      "caption": "Code, coffee ☕, repeat 💻",
+      "likes": 89,
+      "isLiked": true,
+      "createdAt": "2025-10-29T08:12:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "tech_girl",
+          "text": "Perfect combo! ❤️"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "yuvan",
+      "userAvatar": "src/assets/profile3.webp",
+      "imageUrl": "src/assets/post3.jpg",
+      "caption": "Sunsets and smiles 🌅",
+      "likes": 152,
+      "isLiked": false,
+      "createdAt": "2025-10-27T18:45:00Z",
+      "comments": []
+    },
+    {
+      "id": "4",
+      "username": "vishnu",
+      "userAvatar": "src/assets/profile4.jpg",
+      "imageUrl": "/src/assets/ben-10.png",
+      "caption": "First React project deployed! 🚀 #webdev",
+      "likes": 210,
+      "isLiked": false,
+      "createdAt": "2025-10-25T10:05:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "arun_dev",
+          "text": "Great job 👏"
+        },
+        {
+          "id": 2,
+          "username": "monish_pandian",
+          "text": "That’s awesome!"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "username": "leenu",
+      "userAvatar": "src/assets/profile5.jpg",
+      "imageUrl": "src/assets/ben-10-omi.webp",
+      "caption": "Weekend vibes 🌴 chilling with friends!",
+      "likes": 175,
+      "isLiked": true,
+      "createdAt": "2025-10-26T12:25:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "sri_coder",
+          "text": "Looks fun bro 🔥"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "Monish",
+    "userAvatar": "src/assets/profile1.jpg",
+    "password": "1234"
+  },
+  "suggestion": [
+    {
+      "id": "9",
+      "username": "anitton",
+      "userAvatar": "src/assets/profile2.jpeg"
+    },
+    {
+      "id": "10",
+      "username": "sharma",
+      "userAvatar": "src/assets/profile2.jpeg"
+    },
+    {
+      "id": "11",
+      "username": "gopi",
+      "userAvatar": "src/assets/profile2.jpeg"
+    },
+    {
+      "id": "19",
+      "username": "rohit",
+      "userAvatar": "src/assets/profile2.jpeg"
+    },
+    {
+      "id": "N5NKog_VE5A",
+      "username": "hardik_pandiya",
+      "userAvatar": "src/assets/profile4.jpg"
+    },
+    {
+      "id": "txPqvbw9ux0",
+      "username": "hardik_pandiya",
+      "userAvatar": "src/assets/profile4.jpg"
+    },
+    {
+      "id": "kxPsndwbxJk",
+      "username": "virat",
+      "userAvatar": "src/assets/profile2.jpeg"
+    },
+    {
+      "id": "udyVZIIACes",
+      "username": "virat",
+      "userAvatar": "src/assets/profile2.jpeg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "yogi",
+      "userAvatar": "src/assets/profile1.jpg",
+      "imageUrl": "src/assets/post1.jpg",
+      "caption": "Exploring new places 🌍✨",
+      "likes": 125,
+      "isLiked": false,
+      "createdAt": "2025-10-28T14:32:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "arun_dev",
+          "text": "Wow this looks amazing 😍"
+        },
+        {
+          "id": 2,
+          "username": "sri_coder",
+          "text": "Where is this place?"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "Nandha",
+      "userAvatar": "src/assets/profile2.jpeg",
+      "imageUrl": "src/assets/post2.jpg",
+      "caption": "Code, coffee ☕, repeat 💻",
+      "likes": 89,
+      "isLiked": true,
+      "createdAt": "2025-10-29T08:12:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "tech_girl",
+          "text": "Perfect combo! ❤️"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "santhosh_raj",
+      "userAvatar": "src/assets/profile3.webp",
+      "imageUrl": "src/assets/post3.jpg",
+      "caption": "Sunsets and smiles 🌅",
+      "likes": 152,
+      "isLiked": false,
+      "createdAt": "2025-10-27T18:45:00Z",
+      "comments": []
+    },
+    {
+      "id": "4",
+      "username": "kishore",
+      "userAvatar": "src/assets/profile4.jpg",
+      "imageUrl": "src/assets/profile2.jpeg",
+      "caption": "First React project deployed! 🚀 #webdev",
+      "likes": 210,
+      "isLiked": false,
+      "createdAt": "2025-10-25T10:05:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "arun_dev",
+          "text": "Great job 👏"
+        },
+        {
+          "id": 2,
+          "username": "monish_pandian",
+          "text": "That’s awesome!"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "username": "preneel",
+      "userAvatar": "src/assets/profile5.jpg",
+      "imageUrl": "src/assets/ben-10-omi.webp",
+      "caption": "Weekend vibes 🌴 chilling with friends!",
+      "likes": 175,
+      "isLiked": true,
+      "createdAt": "2025-10-26T12:25:00Z",
+      "comments": [
+        {
+          "id": 1,
+          "username": "sri_coder",
+          "text": "Looks fun bro 🔥"
+        }
+      ]
+    }
+  ],
+  "Followers": [
+    {
+      "id": "7",
+      "userAvatar": "src/assets/profile3.webp",
+      "username": "ashok"
+    },
+    {
+      "id": "26",
+      "userAvatar": "src/assets/profile1.jpg",
+      "username": "tilak"
+    },
+    {
+      "id": "27",
+      "userAvatar": "src/assets/profile2.jpeg",
+      "username": "pollard"
+    },
+    {
+      "id": "20",
+      "userAvatar": "src/assets/profile1.jpg",
+      "username": "sarrvanan"
+    },
+    {
+      "id": "21",
+      "userAvatar": "src/assets/profile1.jpg",
+      "username": "ashwin"
+    },
+    {
+      "id": "23",
+      "userAvatar": "src/assets/profile1.jpg",
+      "username": "warner"
+    },
+    {
+      "id": "28",
+      "userAvatar": "src/assets/profile2.jpeg",
+      "username": "bumrah"
+    },
+    {
+      "id": "27",
+      "userAvatar": "src/assets/profile2.jpeg",
+      "username": "pollard"
+    },
+    {
+      "id": "BKC68dL-FdE",
+      "userAvatar": "src/assets/profile5.jpg",
+      "username": "venkat"
+    },
+    {
+      "id": "H1ZYbWujhl8",
+      "userAvatar": "src/assets/profile3.webp",
+      "username": "sanjay_narsima_naidu"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,109 @@
+.light{
+  --background-color: white;
+  --text-color: black;
+}
+.dark{
+  background-color:black;
+  color:white;
+}
+
+.story{
+  width: 500px;
+  height: 500px;
+}
+.story_pic{
+  width: 500px;
+  height: 670px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.w-70{
+  width: 70%;
+}
+.w-20{
+  width: 15%;
+}
+.w-40{
+  width: 40%;
+}
+.w-80{
+  width: 80%;
+}
+.logo-text{
+  width: 100px;
+}
+.story{
+  height: 85px;
+}
+.dp{
+  height: 30px;
+  width: 30px;
+}
+.post{
+  width: 500px;
+  height: 400px;
+}
+.story-dp{
+  width: 60px;
+  height: 60px;
+  background: white;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.gradient-border{
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00);
+}  
+.profile{
+  width: 50px;
+  height: 50px;
+}
+.no-caret::after{
+  display:none !important
+}
+body.light{
+  background-color: #ffffff;
+  color: #000000;
+}
+body.dark{
+  background-color: #121212;
+  color:#ffffff;
+}
+/* 🌞 LIGHT MODE */
+body.light .dropdown-menu,body.light .form-control{
+  background-color: #fff !important;
+  color: #000 !important;
+  border: 1px solid #ccc !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+body.light .dropdown-item,body.light .form-control{
+  color: #000 !important;
+}
+body.light .dropdown-item:hover {
+  background-color: #f1f1f1 !important;
+}
+
+body.dark .dropdown-menu,body.dark .form-control{
+  background-color: #1a1a1a !important;  
+  color: #fff !important;
+  border: 1px solid #333 !important;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05) !important;
+}
+
+body.dark .dropdown-item,body.dark .form-control{
+  color: #ddd !important;
+}
+body.dark .dropdown-item:hover {
+  background-color: #333 !important;
+  color: #fff !important;
+}
+.large{
+  width: 500px;
+
+}
